@@ -342,7 +342,7 @@
 
 // ################################# VARIANT_NUNCHUK SETTINGS ############################
 #ifdef VARIANT_NUNCHUK
-  /* on Right sensor cable
+  /* on Right sensor cable.
    * keep cable short, use shielded cable, use ferrits, stabalize voltage in nunchuk,
    * use the right one of the 2 types of nunchuks, add i2c pullups.
    * use original nunchuk. most clones does not work very well.
